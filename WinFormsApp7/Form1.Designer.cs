@@ -37,8 +37,8 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Image = Resource1.кликер;
-            pictureBox1.Location = new Point(197, 171);
+            pictureBox1.Image = WinFormsApp7.Resource1.кликер;
+            pictureBox1.Location = new Point(213, 172);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(367, 194);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
